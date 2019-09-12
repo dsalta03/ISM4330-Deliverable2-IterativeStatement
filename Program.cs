@@ -1,4 +1,11 @@
-﻿ using System;
+﻿/*
+    Author: Saltanat Degenbaeva
+    Date: 9/12/2019
+    Comments: This C# Console application code demonstrates the use of
+              iterative statements after getting input from users. 
+*/
+
+using System;
 
 namespace ISM4330_Dv2_IterativeStatement
 {
